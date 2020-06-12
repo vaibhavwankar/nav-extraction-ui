@@ -1,0 +1,17 @@
+.input-text{
+    width: 100%;
+  }
+
+mat-card {
+    max-width: 70%;
+    margin: 2em auto;
+    text-align: center;
+  }
+
+.title-center {
+    margin: 0 auto;
+  }
+
+.submit-button {
+  width: 20%;
+  }
